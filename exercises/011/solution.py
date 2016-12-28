@@ -1,5 +1,5 @@
 #!/usr/bin/python2.7
 i = 0
 while(i < 100):
-    print("Hello world")
+    print("Hello World")
     i = i+1
