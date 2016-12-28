@@ -1,5 +1,5 @@
 #!/usr/bin/python
-if 2+2 != 5 :
+if 2+2 != 5:
     print(True)
-else :
+else:
     print(False)
